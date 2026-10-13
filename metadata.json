@@ -1,0 +1,6 @@
+{
+  "name": "Tomato - Food Delivery",
+  "description": "A lightweight and responsive food ordering app inspired by Zomato, featuring restaurant discovery, menu exploration, seamless cart checkout, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
